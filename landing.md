@@ -36,9 +36,12 @@ show_tile: true
 				</header>
 				<p>I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by <a href='http://www.sezermanlab.org' > Ugur Sezerman, </a> who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree.</p>
 			</div>
+		</div>
 	</section>
 	<section>
-		</div>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -57,6 +60,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -69,6 +75,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
