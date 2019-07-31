@@ -27,7 +27,7 @@ show_tile: true
 <section id="two">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://unsplash.com/photos/crjPrExvShc" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -36,6 +36,8 @@ show_tile: true
 				</header>
 				<p>I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by <a href='http://www.sezermanlab.org' > Ugur Sezerman, </a> who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree.</p>
 			</div>
+	</section>
+	<section>
 		</div>
 		<div class="content">
 			<div class="inner">
@@ -53,6 +55,8 @@ show_tile: true
 					I wrote my Master's thesis titled "Homology and Evidence-based Genome Annotation of Caenorhabditis Species" in the group of Nansheng Chen and defended my thesis in December 2010.</p>
 			</div>
 		</div>
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -63,6 +67,8 @@ show_tile: true
 					I defended my doctoral thesis on "the Roles of Short Linear Motifs in Human Diseases" in the University of Heidelberg in November, 2014 and stayed in Toby's team as a bridging postdoctoral fellow until July, 2015.</p>
 			</div>
 		</div>
+	</section>
+	<section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
