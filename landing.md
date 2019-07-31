@@ -34,10 +34,7 @@ show_tile: true
 				<header class="major">
 					<h3>BSc</h3>
 				</header>
-				<p>I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by [Ugur Sezerman](http://www.sezermanlab.org/), who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by <a href='http://www.sezermanlab.org' > Ugur Sezerman </a>, who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree.</p>
 			</div>
 		</div>
 	</section>
