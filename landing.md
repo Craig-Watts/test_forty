@@ -17,8 +17,8 @@ show_tile: true
 			<h2>My career journey</h2>
 		</header>
 		<p> Hello! I am Bora. I am a Bioinformatics Scientist at the 
-			[Berlin Institute of Medical Systems Biology](https://www.mdc-berlin.de/bimsb) of
-			the [Max-Delbruck-Center for Molecular Medicine](https://www.mdc-berlin.de).
+			<a> href='https://www.mdc-berlin.de/bimsb' > Berlin Institute of Medical Systems Biology </a>
+			of the <a> href='https://www.mdc-berlin.de' > Max-Delbruck-Center for Molecular Medicine. </a>
 		</p>
 	</div>
 </section>
@@ -34,7 +34,7 @@ show_tile: true
 				<header class="major">
 					<h3>BSc</h3>
 				</header>
-				<p>I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by <a href='http://www.sezermanlab.org' > Ugur Sezerman </a>, who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree.</p>
+				<p>I decided to study Bioinformatics back in 2004 at Sabanci University (Istanbul,Turkey), where I was inspired by the freshman projects offered by <a href='http://www.sezermanlab.org' > Ugur Sezerman, </a> who is probably responsible for dozens of other people to choose to study bionformatics :). I graduated from Sabanci University in 2008 and moved to Vancouver/Canada to do my Master's degree.</p>
 			</div>
 		</div>
 	</section>
