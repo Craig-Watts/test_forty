@@ -24,7 +24,7 @@ show_tile: true
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section id="two">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="https://unsplash.com/photos/crjPrExvShc" alt="" data-position="center center" />
